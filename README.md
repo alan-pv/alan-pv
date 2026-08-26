@@ -19,7 +19,7 @@ Whisper · Llama · Ollama · LoRA · OpenCV · Stable Diffusion · Porygon ·
 pandas · NumPy · SciPy · Matplotlib · Jupyter Lab · Google Colab ·
 PostgreSQL · MySQL · Supabase · Clingo · Docker · Docker Compose · Git · n8n · ffmpeg ·
 Linux · Vim · VS Code · Raspberry Pi · Arduino · ESP32 · Rotom ·
-Godot Engine · Aseprite · itch.io · GIMP · Inkscape · OBS · LaTeX · Overleaf · Klinklang
+Godot Engine · Aseprite · itch.io · GIMP · Inkscape · OBS · LaTeX · Overleaf · Klinklang · bfxr
 
 *Three of those are Pokémon. Good luck.*
 

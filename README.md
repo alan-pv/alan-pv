@@ -1,5 +1,5 @@
 
-# José Alán Pomares Valdés
+# José Alán 
 
 CS undergrad at BUAP, in Puebla, Mexico.
 

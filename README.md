@@ -4,9 +4,7 @@
 CS undergrad at BUAP, in Puebla, Mexico.
 
 I build things with AI, fine-tuning language models, playing with logic
-programming, and making game agents that beat me at my own games. I also
-make games, and a robot on my desk talks without
-asking me for permission.
+programming, and making game agents that beat me at my own games.
 
 Most of what's here is either research code, something I made because the
 tool didn't exist yet, or a game.

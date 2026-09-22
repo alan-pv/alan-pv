@@ -1,24 +1,22 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fastfetch.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/fastfetch-light.png" />
+  <img align="right" width="260" alt="fastfetch" src="assets/fastfetch.png" />
+</picture>
 
-# José Alán 
+<img src="assets/header.svg" alt="Alan PV" width="460" />
 
-CS undergrad at BUAP, in Puebla, Mexico.
+CS undergrad at **BUAP**, in Puebla, Mexico.
 
-I build things with AI, fine-tuning language models, playing with logic
-programming, and making game agents that beat me at my own games.
+I make **video games** and build **AIs**, and I like it best when they meet.
+I design adversarial games, train agents that learn to play them, and write
+bots that end up beating me at my own games. What I enjoy most is creating
+something **smarter than me**.
 
-Most of what's here is either research code, something I made because the
-tool didn't exist yet, or a game.
+<br clear="right" />
 
-### Tools
-
-Python · TypeScript · C · C++ · Java · GDScript · SQL · Assembly · PHP · CSS · HTML · Bash ·
-PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · Hugging Face Transformers ·
-Whisper · Llama · Ollama · LoRA · OpenCV · Stable Diffusion · Porygon ·
-pandas · NumPy · SciPy · Matplotlib · Jupyter Lab · Google Colab ·
-PostgreSQL · MySQL · Supabase · Clingo · Docker · Docker Compose · Git · n8n · ffmpeg ·
-Linux · Vim · VS Code · Raspberry Pi · Arduino · ESP32 · Rotom ·
-Godot Engine · Aseprite · itch.io · GIMP · Inkscape · OBS · LaTeX · Overleaf · Klinklang · bfxr
-
-*Three of those are Pokémon. Good luck.*
-
-![My GitHub Game](game.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="maeul-in-the-sky-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="maeul-in-the-sky-light.svg" />
+  <img alt="My GitHub contribution village" src="maeul-in-the-sky-dark.svg" width="100%" />
+</picture>

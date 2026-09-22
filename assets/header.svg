@@ -1,26 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
-      <stop offset="0" stop-color="#a855f7"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#f472b6"/>
-      <animate attributeName="x1" values="0;-560;0" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="560;0;560" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
-    <clipPath id="type">
-      <rect x="4" y="70" height="40" width="0">
-        <animate attributeName="width" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432" calcMode="discrete" begin="0.6s" dur="3s" fill="freeze"/>
-      </rect>
-    </clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="130" viewBox="0 0 460 130">
   <style>
-    .name { font: 800 58px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1px; }
-    .sub { font: 500 20px ui-monospace, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace; fill: #8b949e; }
+    .g { fill: #1a7f37; } .dim { fill: #57606a; }
+    @media (prefers-color-scheme: dark) { .g { fill: #3fb950; } .dim { fill: #8b949e; } }
+    .t { font: 800 54px 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .ph, .ido { font: 700 24px ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, 'DejaVu Sans Mono', monospace; }
   </style>
-  <text class="name" x="0" y="58" fill="url(#g)">Alan PV</text>
-  <text class="sub" x="4" y="96" textLength="432" lengthAdjust="spacingAndGlyphs" clip-path="url(#type)">&gt; building something smarter than me</text>
-  <rect x="6" y="78" width="10" height="22" fill="#22d3ee">
-    <animate attributeName="x" values="6;18;30;42;54;66;78;90;102;114;126;138;150;162;174;186;198;210;222;234;246;258;270;282;294;306;318;330;342;354;366;378;390;402;414;426;438" calcMode="discrete" begin="0.6s" dur="3s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <defs><clipPath id="c"><rect x="0" y="84" width="460" height="38"/></clipPath></defs>
+  <text class="t" x="2" y="62" fill="#3fb950"><tspan y="62">H<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.00s" repeatCount="indefinite"/></tspan><tspan y="62">i<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.12s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.12s" repeatCount="indefinite"/></tspan><tspan y="62">,<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.24s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.24s" repeatCount="indefinite"/></tspan><tspan> </tspan><tspan y="62">I<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.48s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.48s" repeatCount="indefinite"/></tspan><tspan y="62">&#39;<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.60s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.60s" repeatCount="indefinite"/></tspan><tspan y="62">m<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.72s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.72s" repeatCount="indefinite"/></tspan><tspan> </tspan><tspan y="62">A<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="0.96s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="0.96s" repeatCount="indefinite"/></tspan><tspan y="62">l<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="1.08s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="1.08s" repeatCount="indefinite"/></tspan><tspan y="62">a<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="1.20s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="1.20s" repeatCount="indefinite"/></tspan><tspan y="62">n<animate attributeName="y" values="62;54;62;62" keyTimes="0;0.12;0.24;1" dur="4s" begin="1.32s" repeatCount="indefinite"/><animate attributeName="fill" values="#3fb950;#2dd4bf;#58a6ff;#a371f7;#3fb950" dur="6s" begin="1.32s" repeatCount="indefinite"/></tspan></text>
+  <text class="dim ido" x="4" y="112">I do</text>
+  <g clip-path="url(#c)">
+    <g>
+      <text class="g ph" x="76" y="112">AI research</text>
+      <text class="g ph" x="76" y="148">game development</text>
+      <text class="g ph" x="76" y="184">pixel art</text>
+      <text class="g ph" x="76" y="220">3D stuff</text>
+      <text class="g ph" x="76" y="256">music</text>
+      <text class="g ph" x="76" y="292">AI research</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -36;0 -36;0 -72;0 -72;0 -108;0 -108;0 -144;0 -144;0 -180"
+        keyTimes="0.0000;0.1600;0.2000;0.3600;0.4000;0.5600;0.6000;0.7600;0.8000;0.9600;1.0000" calcMode="spline" keySplines="0 0 1 1;0.65 0 0.35 1;0 0 1 1;0.65 0 0.35 1;0 0 1 1;0.65 0 0.35 1;0 0 1 1;0.65 0 0.35 1;0 0 1 1;0.65 0 0.35 1"
+        dur="11.25s" repeatCount="indefinite"/>
+    </g>
+  </g>
 </svg>

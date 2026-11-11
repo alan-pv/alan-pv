@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Hi, I'm Alan. I do AI research, game development, pixel art, 3D stuff and music. CS undergrad at BUAP, in Puebla, Mexico. I make video games and build AIs, and I like it best when they meet." width="100%" />
+<img src="assets/banner.svg" alt="Hi, I'm Alan. I study Computer Science at BUAP, in Puebla, Mexico. I like making games, drawing pixel art, messing around in 3D, and making music. I'm also really into AI, and I'm learning as much as I can about it." width="100%" />
 
 <p align="center">
   <a href="https://alan-pv.com/"><img src="assets/btn-web.svg" alt="Portfolio" height="40" /></a>
